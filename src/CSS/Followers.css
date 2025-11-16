@@ -1,0 +1,17 @@
+.followers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.follower-card {
+  text-align: center;
+  padding: 10px;
+}
+
+.follower-card img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}

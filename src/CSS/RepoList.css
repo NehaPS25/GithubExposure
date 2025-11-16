@@ -1,0 +1,20 @@
+.repo-item {
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.repo-item:last-child {
+  border-bottom: none;
+}
+
+.repo-title {
+  font-weight: bold;
+  font-size: 18px;
+  color: #0366d6;
+  margin-bottom: 6px;
+}
+
+.repo-description {
+  font-size: 14px;
+  opacity: 0.7;
+}

@@ -1,0 +1,21 @@
+/* Home.css */
+
+.home-wrapper {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.section {
+  margin-top: 25px;
+}
+
+/* Common card style */
+.card {
+  background: #ffffff;
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
